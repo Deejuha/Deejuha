@@ -2,14 +2,9 @@
 Software engineer located in Poland.
 Currently working at ZF.
 
-[![Deejuha StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11418909)](https://stackoverflow.com/users/11418909/juhas)
+[![Deejuha StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11418909)](https://raw.githubusercontent.com/Deejuha/Deejuha/main/header.png)
 
 ![Profile views](https://gpvc.arturio.dev/Deejuha)
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 <!--
 **Deejuha/Deejuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
