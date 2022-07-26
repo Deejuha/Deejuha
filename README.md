@@ -1,4 +1,13 @@
-### Hi there 👋
+![Welcoming banner saying hi](.\header.png)
+Software engineer located in Poland.
+Currently working at ZF.
+
+[![Deejuha StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11418909)](https://stackoverflow.com/users/11418909/juhas)
+
+![Profile views](https://gpvc.arturio.dev/Deejuha)
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 <!--
 **Deejuha/Deejuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
