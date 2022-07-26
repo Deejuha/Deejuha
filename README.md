@@ -6,6 +6,8 @@ Currently working at ZF.
 
 ![Profile views](https://gpvc.arturio.dev/Deejuha)
 
+# Todoist Stats
+
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
